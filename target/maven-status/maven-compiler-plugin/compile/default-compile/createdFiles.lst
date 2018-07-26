@@ -1,0 +1,16 @@
+com\dm_02_tbdapp\dao\AddAddressDAO.class
+com\dm_02_tbdapp\bean\User.class
+com\dm_02_tbdapp\controller\UserManager.class
+com\dm_02_tbdapp\dao\LoginUserDAO.class
+com\dm_02_tbdapp\bean\UserCredentials.class
+com\dm_02_tbdapp\controller\UserAppController.class
+com\dm_02_tbdapp\dao\RegisterNewUserDAO.class
+com\dm_02_tbdapp\controller\App.class
+com\dm_02_tbdapp\bean\UserProfile.class
+com\dm_02_tbdapp\dao\LogoutUserDAO.class
+com\dm_02_tbdapp\pojo\User_Profile.class
+com\dm_02_tbdapp\dao\RegisterUserDAO.class
+com\dm_02_tbdapp\dao\UpdateUserDAO.class
+com\dm_02_tbdapp\dao\RemoveAddressDAO.class
+com\dm_02_tbdapp\dao\UpdateAddressDAO.class
+com\dm_02_tbdapp\utils\JsonToJava.class

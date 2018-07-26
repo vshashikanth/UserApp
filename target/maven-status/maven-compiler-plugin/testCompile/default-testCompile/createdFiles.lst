@@ -1,0 +1,6 @@
+com\dm_02_tbdapp\dao\test\UserTestSuite.class
+com\dm_02_tbdapp\dao\test\RegisterUserDAOTest.class
+com\dm_02_tbdapp\dao\test\TestRunner.class
+com\dm_02_tbdapp\dao\test\LogoutUserDAOTest.class
+com\dm_02_tbdapp\dao\test\LoginUserDAOTest.class
+com\dm_02_tbdapp\dao\test\UpdateUserDAOTest.class
